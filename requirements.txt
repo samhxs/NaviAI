@@ -1,0 +1,5 @@
+# VM + Plugin Demo Dependencies
+# No external dependencies required for basic demo
+# Future additions could include:
+# - pillow (for advanced image processing)
+# - numpy (for audio processing)
